@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Woocommerce Grant Product access
- * Description: Just enter an email address and choose a product, this plugin creates a user for it and makes a purchase for it
+ * Description: Just enter an email address and choose a product, the plugin creates a user for it and makes a purchase for it
  * Plugin URI:  https://wwww.dornaweb.com
  * Version:     1.0
  * Author:      Dornaweb
